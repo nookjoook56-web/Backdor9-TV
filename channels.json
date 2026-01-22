@@ -38,7 +38,7 @@
   {
     "name": "Kanal 7",
     "group": "Ulusal",
-    "logo": "https://assets.uzunmuhalefet.com/logos/9af5ca05-f788-4ca3-9fd3-92c89d555c2b.png",
+    "logo": "https://assets.uzunmuhalefet.com/logos/7c94cb8c-63d1-46df-afac-a299e3910a5a.m3u8",
     "url": "https://streams.uzunmuhalefet.com/stream/7c94cb8c-63d1-46df-afac-a299e3910a5a.m3u8"
   },
   {
@@ -108,12 +108,6 @@
     "url": "https://streams.uzunmuhalefet.com/stream/ea5e2000-56b6-4fb9-8dcf-b8bbe90b9f7b.m3u8"
   },
   {
-    "name": "NTV",
-    "group": "Haber",
-    "logo": "https://assets.uzunmuhalefet.com/logos/71dca388-e7d8-46c0-9b28-439b954a7613.png",
-    "url": "https://streams.uzunmuhalefet.com/stream/f27d4ced-d7e4-4d63-95b4-c47302cad618.m3u8"
-  },
-  {
     "name": "Sözcü TV",
     "group": "Haber",
     "logo": "https://assets.uzunmuhalefet.com/logos/f16de70e-9de7-4b41-937f-11a65fb2932d.png",
@@ -126,10 +120,22 @@
     "url": "https://streams.uzunmuhalefet.com/stream/0665560a-c8a8-4087-bee6-9af26f226c90.m3u8"
   },
   {
-    "name": "A Para",
-    "group": "Ekonomi",
-    "logo": "https://assets.uzunmuhalefet.com/logos/144ddf6c-e2df-4725-a292-3400c3216ad8.png",
-    "url": "https://streams.uzunmuhalefet.com/stream/cc4f4e0d-e70f-4d1b-87f7-4f9c205c2767.m3u8"
+    "name": "TRT Türk",
+    "group": "Ulusal - Yurt Dışı",
+    "logo": "https://assets.uzunmuhalefet.com/logos/b92d1f4b-55f5-4950-81ae-e4c31cd5e856.png",
+    "url": "https://streams.uzunmuhalefet.com/stream/d8fcd134-0f23-4883-ae8f-4c04cc3cc49a.m3u8"
+  },
+  {
+    "name": "ATV Avrupa",
+    "group": "Ulusal - Yurt Dışı",
+    "logo": "https://assets.uzunmuhalefet.com/logos/b02a677d-b1a4-47a5-a895-e7df724499f9.png",
+    "url": "https://streams.uzunmuhalefet.com/stream/017621fb-d6f1-4e21-91d8-2510bdcb4ceb.m3u8"
+  },
+  {
+    "name": "Euro D",
+    "group": "Ulusal - Yurt Dışı",
+    "logo": "https://assets.uzunmuhalefet.com/logos/4a9baf62-fd58-429e-b4b0-10edbd7d1579.png",
+    "url": "https://streams.uzunmuhalefet.com/stream/864c7cfd-0427-4997-b2dc-31b4aee312c9.m3u8"
   },
   {
     "name": "Bloomberg HT",
@@ -156,21 +162,15 @@
     "url": "https://streams.uzunmuhalefet.com/stream/ca37ad2f-27a2-4227-9e04-fdd4b2279f3e.m3u8"
   },
   {
-    "name": "TRT Türk",
-    "group": "Ulusal - Yurt Dışı",
-    "logo": "https://assets.uzunmuhalefet.com/logos/b92d1f4b-55f5-4950-81ae-e4c31cd5e856.png",
-    "url": "https://streams.uzunmuhalefet.com/stream/d8fcd134-0f23-4883-ae8f-4c04cc3cc49a.m3u8"
+    "name": "Kemal Sunal Filmleri",
+    "group": "Eğlence",
+    "logo": "https://assets.uzunmuhalefet.com/logos/23261646-b494-438f-af29-e142bcb85863.png",
+    "url": "https://streams.uzunmuhalefet.com/stream/00f5d14e-2eae-4a5e-bec7-f7f91d468248.m3u8"
   },
   {
-    "name": "ATV Avrupa",
-    "group": "Ulusal - Yurt Dışı",
-    "logo": "https://assets.uzunmuhalefet.com/logos/b02a677d-b1a4-47a5-a895-e7df724499f9.png",
-    "url": "https://streams.uzunmuhalefet.com/stream/017621fb-d6f1-4e21-91d8-2510bdcb4ceb.m3u8"
-  },
-  {
-    "name": "Euro D",
-    "group": "Ulusal - Yurt Dışı",
-    "logo": "https://assets.uzunmuhalefet.com/logos/4a9baf62-fd58-429e-b4b0-10edbd7d1579.png",
-    "url": "https://streams.uzunmuhalefet.com/stream/864c7cfd-0427-4997-b2dc-31b4aee312c9.m3u8"
+    "name": "Türk Filmleri",
+    "group": "Eğlence",
+    "logo": "https://assets.uzunmuhalefet.com/logos/3da5ccab-06e3-40cb-a585-11f5ee3e13b8.png",
+    "url": "https://streams.uzunmuhalefet.com/stream/d008e6f1-1f45-4f60-ab98-350f79c359a1.m3u8"
   }
 ]
