@@ -1,0 +1,58 @@
+plugins {
+    id 'com.android.application'
+    id 'org.jetbrains.kotlin.android'
+}
+
+android {
+    namespace "com.example.backdor9"
+    compileSdk 33
+
+    defaultConfig {
+        applicationId "com.example.backdor9"
+        minSdk 21
+        targetSdk 33
+        versionCode 1
+        versionName "1.0"
+    }
+
+    buildFeatures {
+        viewBinding true
+    }
+
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_17
+        targetCompatibility JavaVersion.VERSION_17
+    }
+
+    kotlinOptions {
+        jvmTarget = "17"
+    }
+}
+
+dependencies {
+    // ✅ UI ve Tasarım
+    implementation "androidx.appcompat:appcompat:1.6.1"
+    implementation "com.google.android.material:material:1.9.0"
+    implementation "androidx.constraintlayout:constraintlayout:2.1.4"
+
+    // ✅ Media3 (ExoPlayer) - Canlı Yayın (HLS) Desteği Dahil
+    implementation "androidx.media3:media3-exoplayer:1.1.1"
+    implementation "androidx.media3:media3-exoplayer-hls:1.1.1" // HLS Şart!
+    implementation "androidx.media3:media3-ui:1.1.1"
+    implementation "androidx.media3:media3-common:1.1.1"
+
+    // ✅ Glide (Logolar için)
+    implementation "com.github.bumptech.glide:glide:4.16.0"
+    annotationProcessor "com.github.bumptech.glide:compiler:4.16.0"
+
+    // ✅ Coroutines (İnternet işlemleri için)
+    implementation "org.jetbrains.kotlinx:kotlinx-coroutines-android:1.7.3"
+}
+
+// AndroidIDE Uyumluluk Ayarları
+configurations.all {
+    resolutionStrategy {
+        force "androidx.activity:activity:1.7.2"
+        force "androidx.activity:activity-ktx:1.7.2"
+    }
+}
