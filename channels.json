@@ -30,16 +30,160 @@
     "url": "https://streams.uzunmuhalefet.com/stream/0ed1c367-312d-4a42-9772-ef257a36b775.m3u8"
   },
   {
+    "name": "Beyaz TV",
+    "group": "Ulusal",
+    "logo": "https://assets.uzunmuhalefet.com/logos/faa06039-87f8-45f1-91b2-ace6449a742e.png",
+    "url": "https://streams.uzunmuhalefet.com/stream/710fb148-7b3d-4ca2-b6c2-743097885a45.m3u8"
+  },
+  {
+    "name": "Kanal 7",
+    "group": "Ulusal",
+    "logo": "https://assets.uzunmuhalefet.com/logos/9af5ca05-f788-4ca3-9fd3-92c89d555c2b.png",
+    "url": "https://streams.uzunmuhalefet.com/stream/7c94cb8c-63d1-46df-afac-a299e3910a5a.m3u8"
+  },
+  {
+    "name": "TV8",
+    "group": "Ulusal",
+    "logo": "https://assets.uzunmuhalefet.com/logos/8a33c746-0aff-44e0-9f1a-1bb3515de3ad.png",
+    "url": "https://streams.uzunmuhalefet.com/stream/e93b8e86-e4fc-450a-81d4-2188eda7dda0.m3u8"
+  },
+  {
     "name": "Star TV",
     "group": "Ulusal",
     "logo": "https://assets.uzunmuhalefet.com/logos/8bd73113-9389-419a-9341-55c3e82469b5.png",
     "url": "https://streams.uzunmuhalefet.com/stream/a8ea8b0b-9c06-41ce-b7f9-35e895c78b77.m3u8"
   },
   {
+    "name": "360 TV",
+    "group": "Ulusal",
+    "logo": "https://assets.uzunmuhalefet.com/logos/9c668bd2-85f6-464d-b366-611e84c6f372.png",
+    "url": "https://streams.uzunmuhalefet.com/stream/90fefbea-4a78-4f02-962f-2e1e4ad22f98.m3u8"
+  },
+  {
+    "name": "TV 100",
+    "group": "Ulusal",
+    "logo": "https://assets.uzunmuhalefet.com/logos/6bdc7aae-f138-452b-a7c1-6f847ff2fa71.png",
+    "url": "https://streams.uzunmuhalefet.com/stream/d95e9a1b-3955-4643-8327-413da9a1ce60.m3u8"
+  },
+  {
     "name": "TRT Haber",
     "group": "Haber",
     "logo": "https://assets.uzunmuhalefet.com/logos/8e701547-6beb-4553-a41e-815dd5e03b93.png",
     "url": "https://streams.uzunmuhalefet.com/stream/aa1ae31d-1d61-44b2-b675-b74e3ff5c7fc.m3u8"
+  },
+  {
+    "name": "A Haber",
+    "group": "Haber",
+    "logo": "https://assets.uzunmuhalefet.com/logos/f7404279-8923-4f40-ace3-eb7b33a7c86b.png",
+    "url": "https://streams.uzunmuhalefet.com/stream/b4f7a5e9-fcae-4258-83eb-cc37b6a68696.m3u8"
+  },
+  {
+    "name": "CNN Türk",
+    "group": "Haber",
+    "logo": "https://assets.uzunmuhalefet.com/logos/6ac77b6a-6e58-49e8-8e76-bc57fdbbd13f.png",
+    "url": "https://streams.uzunmuhalefet.com/stream/b9cb7e10-ef07-4379-ab36-039286fcd8f8.m3u8"
+  },
+  {
+    "name": "TGRT Haber",
+    "group": "Haber",
+    "logo": "https://assets.uzunmuhalefet.com/logos/086cb48d-e5b6-4b79-94cd-725975dde567.png",
+    "url": "https://streams.uzunmuhalefet.com/stream/bd9ebc63-8243-43d6-83a2-eeef100f7e20.m3u8"
+  },
+  {
+    "name": "Habertürk",
+    "group": "Haber",
+    "logo": "https://assets.uzunmuhalefet.com/logos/98474191-bf00-43a0-b189-03f970e4566c.png",
+    "url": "https://streams.uzunmuhalefet.com/stream/0c0bc91d-ce3a-49cc-9054-1cff110967c4.m3u8"
+  },
+  {
+    "name": "Haber Global",
+    "group": "Haber",
+    "logo": "https://assets.uzunmuhalefet.com/logos/004cbbfd-3369-4873-8c51-0adac2d77ea9.png",
+    "url": "https://streams.uzunmuhalefet.com/stream/0b536738-3d01-4089-9a58-106397190a51.m3u8"
+  },
+  {
+    "name": "Halk TV",
+    "group": "Haber",
+    "logo": "https://assets.uzunmuhalefet.com/logos/8373e35a-90c5-4396-888a-eb0b8a3fb6d0.png",
+    "url": "https://streams.uzunmuhalefet.com/stream/ea5e2000-56b6-4fb9-8dcf-b8bbe90b9f7b.m3u8"
+  },
+  {
+    "name": "NTV",
+    "group": "Haber",
+    "logo": "https://assets.uzunmuhalefet.com/logos/71dca388-e7d8-46c0-9b28-439b954a7613.png",
+    "url": "https://streams.uzunmuhalefet.com/stream/f27d4ced-d7e4-4d63-95b4-c47302cad618.m3u8"
+  },
+  {
+    "name": "Sözcü TV",
+    "group": "Haber",
+    "logo": "https://assets.uzunmuhalefet.com/logos/f16de70e-9de7-4b41-937f-11a65fb2932d.png",
+    "url": "https://streams.uzunmuhalefet.com/stream/30f86caf-1b7e-4e62-8bdc-4729ea68492a.m3u8"
+  },
+  {
+    "name": "Ekol TV",
+    "group": "Haber",
+    "logo": "https://assets.uzunmuhalefet.com/logos/76175b6c-2a79-4fcd-89d5-026c4e76edb1.png",
+    "url": "https://streams.uzunmuhalefet.com/stream/0665560a-c8a8-4087-bee6-9af26f226c90.m3u8"
+  },
+  {
+    "name": "TRT Türk",
+    "group": "Ulusal - Yurt Dışı",
+    "logo": "https://assets.uzunmuhalefet.com/logos/b92d1f4b-55f5-4950-81ae-e4c31cd5e856.png",
+    "url": "https://streams.uzunmuhalefet.com/stream/d8fcd134-0f23-4883-ae8f-4c04cc3cc49a.m3u8"
+  },
+  {
+    "name": "ATV Avrupa",
+    "group": "Ulusal - Yurt Dışı",
+    "logo": "https://assets.uzunmuhalefet.com/logos/b02a677d-b1a4-47a5-a895-e7df724499f9.png",
+    "url": "https://streams.uzunmuhalefet.com/stream/017621fb-d6f1-4e21-91d8-2510bdcb4ceb.m3u8"
+  },
+  {
+    "name": "Euro D",
+    "group": "Ulusal - Yurt Dışı",
+    "logo": "https://assets.uzunmuhalefet.com/logos/4a9baf62-fd58-429e-b4b0-10edbd7d1579.png",
+    "url": "https://streams.uzunmuhalefet.com/stream/864c7cfd-0427-4997-b2dc-31b4aee312c9.m3u8"
+  },
+  {
+    "name": "A Para",
+    "group": "Ekonomi",
+    "logo": "https://assets.uzunmuhalefet.com/logos/144ddf6c-e2df-4725-a292-3400c3216ad8.png",
+    "url": "https://streams.uzunmuhalefet.com/stream/cc4f4e0d-e70f-4d1b-87f7-4f9c205c2767.m3u8"
+  },
+  {
+    "name": "Bloomberg HT",
+    "group": "Ekonomi",
+    "logo": "https://assets.uzunmuhalefet.com/logos/e31b4e7f-7a0f-43dc-ab5c-57b2c373de96.png",
+    "url": "https://streams.uzunmuhalefet.com/stream/36931c3c-b36b-45eb-89c8-ffdcea8a9329.m3u8"
+  },
+  {
+    "name": "TRT 2",
+    "group": "Eğlence",
+    "logo": "https://assets.uzunmuhalefet.com/logos/c43c931c-f79b-4adf-a7de-3aa0d0fe785e.png",
+    "url": "https://streams.uzunmuhalefet.com/stream/daa339b4-807f-4111-b212-318ae5798801.m3u8"
+  },
+  {
+    "name": "TLC",
+    "group": "Eğlence",
+    "logo": "https://assets.uzunmuhalefet.com/logos/8ae78da8-6ebd-4ba2-bd97-fcf61be6471e.png",
+    "url": "https://streams.uzunmuhalefet.com/stream/7c98bf26-69a3-4f45-a330-d7c27459b375.m3u8"
+  },
+  {
+    "name": "DMAX",
+    "group": "Eğlence",
+    "logo": "https://assets.uzunmuhalefet.com/logos/8dbef7ca-af5a-446c-83dc-cf7b32bbe5a8.png",
+    "url": "https://streams.uzunmuhalefet.com/stream/ca37ad2f-27a2-4227-9e04-fdd4b2279f3e.m3u8"
+  },
+  {
+    "name": "Kemal Sunal Filmleri",
+    "group": "Eğlence",
+    "logo": "https://assets.uzunmuhalefet.com/logos/23261646-b494-438f-af29-e142bcb85863.png",
+    "url": "https://streams.uzunmuhalefet.com/stream/00f5d14e-2eae-4a5e-bec7-f7f91d468248.m3u8"
+  },
+  {
+    "name": "Türk Filmleri",
+    "group": "Eğlence",
+    "logo": "https://assets.uzunmuhalefet.com/logos/3da5ccab-06e3-40cb-a585-11f5ee3e13b8.png",
+    "url": "https://streams.uzunmuhalefet.com/stream/d008e6f1-1f45-4f60-ab98-350f79c359a1.m3u8"
   },
   {
     "name": "beIN SPORTS 1",
